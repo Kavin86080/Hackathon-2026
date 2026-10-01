@@ -1,0 +1,8 @@
+{
+  "name": "Remix ExplainGrade AI",
+  "description": "From Marks to Meaningful Learning: AI-assisted descriptive answer evaluation \u0026 feedback system with deterministic rubric compliance, transparent gap analysis, and RAG knowledge grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
